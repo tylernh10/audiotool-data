@@ -1,0 +1,15 @@
+Audiotool stats
+
+y value: follower count
+
+x values:
+- Tracks (int)
+- Favorites (int)
+- Albums (int)
+- Assets (int)
+- Following (int)
+- Wall (int) --> number of total posts on artist's personal message board
+- Time been on site (int)
+- Number of plays on top track (int)
+- Number of favorites on top track (int)
+- Genre of top track
