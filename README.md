@@ -7,5 +7,5 @@ I look towards an artist's community involvement, metrics regarding their top tr
 
 This project has been done in Python along Numpy, Pandas, Requests, Beautiful Soup, and Scikit-Learn.
 
-Note: in order to run the webscraping portion of the Notebook, you will need a valid audiotool username and password which can be entered as strings in the "info" dictionary. To bypass this, run starting from the cell that begins with the comment: "run from here to bypass scraping"\
+Note: in order to run the webscraping portion of the Notebook, you will need a valid audiotool username and password which can be entered as strings in the "info" dictionary. To bypass this, run starting from the cell that begins with the comment: \#run from here to bypass scraping".
 Running this cell will populate the Pandas dataframe with data that has been previously scraped.
